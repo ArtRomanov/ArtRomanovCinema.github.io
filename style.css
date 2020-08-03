@@ -39,6 +39,7 @@ div.filmName {
     width: 500px;
     border-bottom: 1px solid #ccc;
     height: 45px;
+    display: block;
 }
 .nav div{
     display: inline-block;
