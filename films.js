@@ -33,6 +33,7 @@ function showArtists(data) {
   }
 
   output += "</ul>";
+  //
 
 
 }

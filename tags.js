@@ -15,6 +15,7 @@ function showTags(data) {
 //starIcon.classList.add('fa', 'fa-star-o');
 //starIcon.classList.add('fa-star-o');
 // starIcon.setAttribute('aria-hidden=true');
+  //
 
   for (let i in data) {
 	  let li = document.createElement('li');
